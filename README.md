@@ -1,5 +1,5 @@
 Tutorial on Youtube.\
-https://www.youtube.com/watch?v=E1E08i2UJGI .\
+https://www.youtube.com/watch?v=E1E08i2UJGI 
 
 # Getting Started with Create React App
 
